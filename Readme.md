@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/Site/Default.aspx) (VB: [Default.aspx](./VB/Site/Default.aspx))
-* [Default.aspx.cs](./CS/Site/Default.aspx.cs) (VB: [Default.aspx](./VB/Site/Default.aspx))
+* [Default.aspx.cs](./CS/Site/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Site/Default.aspx.vb))
 <!-- default file list end -->
 # How to parse smart date expressions inputted into ASPxDateEdit
 
